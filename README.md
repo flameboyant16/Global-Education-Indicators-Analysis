@@ -40,6 +40,7 @@ North America
 Write 2–3 insights in a text box:
 
 i)	What can you conclude from your dashboard?
+
 Western Hemisphere has more internet access and literacy rate than the Eastern Hemishpere. 
 
 ii) India and Indonesia have good literacy rates but low internet access, showing a digital gap despite progress in education.
