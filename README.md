@@ -39,12 +39,13 @@ North America
 ## Part 5: Key Insights
 Write 2–3 insights in a text box:
 
-●	What can you conclude from your dashboard?
+i)	What can you conclude from your dashboard?
 Western Hemisphere has more internet access and literacy rate than the Eastern Hemishpere. 
 
-India and Indonesia have good literacy rates but low internet access, showing a digital gap despite progress in education.
+ii) India and Indonesia have good literacy rates but low internet access, showing a digital gap despite progress in education.
 
 ●	Where are the biggest gaps in education access?
+
 The biggest gaps in education access are in South Asia and Sub-Saharan Africa. For example, Pakistan has a literacy rate of 58% and Nigeria 62%, and both have internet access below 45%. This shows that people in these regions face serious challenges in getting both basic education and access to online resources.
 
 
