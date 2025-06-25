@@ -20,32 +20,41 @@ This project contains an Excel dashboard analyzing global education data for 202
 
 ## Part 2 Answers
 1.	What is the average literacy rate per region?
+
 Africa - 71.5%
+
 Asia - 75.0%
+
 Europe - 99.0%
+
 North America - 99.0%
+
 South America - 93.0%
 
+
 2.	Which country has the highest and lowest Internet Access?
+
 Germany - 96%
 Pakistan - 34%
 
 3.	What is the total population of countries with literacy rate below 80%?
+
 1,853 million people. 
 
 4.	Which region has the highest average GDP per Capita?
+
 North America
 
 ## Part 5: Key Insights
 Write 2–3 insights in a text box:
 
-i)	What can you conclude from your dashboard?
+What can you conclude from your dashboard?
 
-Western Hemisphere has more internet access and literacy rate than the Eastern Hemishpere. 
+i) Western Hemisphere has more internet access and literacy rate than the Eastern Hemishpere. 
 
 ii) India and Indonesia have good literacy rates but low internet access, showing a digital gap despite progress in education.
 
-●	Where are the biggest gaps in education access?
+Where are the biggest gaps in education access?
 
 The biggest gaps in education access are in South Asia and Sub-Saharan Africa. For example, Pakistan has a literacy rate of 58% and Nigeria 62%, and both have internet access below 45%. This shows that people in these regions face serious challenges in getting both basic education and access to online resources.
 
